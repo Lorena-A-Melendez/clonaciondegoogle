@@ -1,7 +1,7 @@
 # Clonación de la Interfaz de Google creado con HTML5 Y CSS3 en el bootcamo de Tecnolochicas PRO.
 ## INDICE
 
-* [1. Intro](#)
+* [1. Intro](https://github.com/Lorena-A-Melendez/clonaciondegoogle/blob/main/README.md#1-intro)
 * [2. ¿Qué construí?](#)
 * [3. Objetivo del proyecto](#)
 
